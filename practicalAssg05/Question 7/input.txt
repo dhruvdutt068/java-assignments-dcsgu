@@ -1,0 +1,4 @@
+Hello there.
+This lesson is of Multithreading in Java
+Nice to meet you.
+I am going to king of pirates
